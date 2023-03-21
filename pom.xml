@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.xnara</groupId>
 	<artifactId>xchange</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>xchange</name>
 	<description>A project for xNara</description>
 	<properties>
